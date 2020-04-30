@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Remider-App/static/css/main.2fd4fb21.chunk.css",
+    "main.js": "/Remider-App/static/js/main.2e0414d4.chunk.js",
+    "main.js.map": "/Remider-App/static/js/main.2e0414d4.chunk.js.map",
+    "runtime-main.js": "/Remider-App/static/js/runtime-main.7ed3a22a.js",
+    "runtime-main.js.map": "/Remider-App/static/js/runtime-main.7ed3a22a.js.map",
+    "static/css/2.4029513c.chunk.css": "/Remider-App/static/css/2.4029513c.chunk.css",
+    "static/js/2.773b10d3.chunk.js": "/Remider-App/static/js/2.773b10d3.chunk.js",
+    "static/js/2.773b10d3.chunk.js.map": "/Remider-App/static/js/2.773b10d3.chunk.js.map",
+    "index.html": "/Remider-App/index.html",
+    "precache-manifest.00caab964a302bc5dcacbf5db20dd84d.js": "/Remider-App/precache-manifest.00caab964a302bc5dcacbf5db20dd84d.js",
+    "service-worker.js": "/Remider-App/service-worker.js",
+    "static/css/2.4029513c.chunk.css.map": "/Remider-App/static/css/2.4029513c.chunk.css.map",
+    "static/css/main.2fd4fb21.chunk.css.map": "/Remider-App/static/css/main.2fd4fb21.chunk.css.map",
+    "static/js/2.773b10d3.chunk.js.LICENSE.txt": "/Remider-App/static/js/2.773b10d3.chunk.js.LICENSE.txt",
+    "static/media/logo-2.png": "/Remider-App/static/media/logo-2.57cb088d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ed3a22a.js",
+    "static/css/2.4029513c.chunk.css",
+    "static/js/2.773b10d3.chunk.js",
+    "static/css/main.2fd4fb21.chunk.css",
+    "static/js/main.2e0414d4.chunk.js"
+  ]
+}
